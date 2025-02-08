@@ -15,6 +15,7 @@
 *MENTOR*: NEELA SANTOSH
 
 #DESCRIPTION
+
     A **Push Button Counter** project created in **Tinkercad** is an educational and interactive project that introduces basic electronics and programming concepts. It involves a push button that increments a counter each time it is pressed, displaying the updated count on a seven-segment display. This project leverages the **Arduino Uno** microcontroller to manage the logic and control the output display. Tinkercad, a popular online platform for 3D design and electronics simulation, is used to design and test the entire circuit and code, making it accessible to beginners and hobbyists interested in learning more about electronics, microcontrollers, and coding.
 
 ### Project Overview:
