@@ -73,3 +73,7 @@ The **Arduino** programming environment is used to write the code that will cont
 
 ### Conclusion:
 The **Push Button Counter** project in **Tinkercad** is a fun, interactive, and educational project that helps beginners grasp fundamental electronics and programming concepts. By combining an Arduino microcontroller, a push button, and a seven-segment display, users can learn how to create a basic interactive system that counts button presses. Tinkercad provides an accessible and efficient platform to simulate and refine the project, making it an ideal starting point for anyone looking to dive into the world of electronics and microcontroller programming.
+
+# OUTPUT of the task
+
+![Image](https://github.com/user-attachments/assets/198f7de9-c7ee-4b6e-b17e-41173a7d31c5)
